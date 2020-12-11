@@ -5,6 +5,9 @@ This workflow lets you manage your Pocket list with Alfred.
 
 ![Pocket for Alfred Screenshot](https://raw.github.com/fniephaus/alfred-pocket/master/screenshot.gif)
 
+## New Features
+
+- full-text search
 
 ## Features
 
